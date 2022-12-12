@@ -13,8 +13,8 @@ export default function Home() {
       <Link href="/about">
         <h3>go to about page</h3>
       </Link>
-      <Link href="/profile">
-        <h3>go to profile page</h3>
+      <Link href="/posts">
+        <h3>go to see all posts</h3>
       </Link>
       <button onClick={handleClick}> Submit</button>
     </div>
